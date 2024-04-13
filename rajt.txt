@@ -1,8 +1,5 @@
 12334
 rajur
 abc
-<<<<<<< HEAD
 raj567778
-=======
-qrs
->>>>>>> d9ffb257a45817cc4152cdaedef62a9bf3e36482
+shdbrdtfhtd
