@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-12345asdfg
-=======
-123456789
->>>>>>> parent of ff538a9 (Revert "cgsdgyucutcyt")
